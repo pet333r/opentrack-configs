@@ -1,0 +1,3 @@
+[submodule "Folder/opentrack-configs"]
+	path = Folder/opentrack-configs
+	url = https://github.com/pet333r/opentrack-configs.git
